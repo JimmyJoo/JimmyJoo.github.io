@@ -10750,20 +10750,29 @@ article.media .media-content .title {
   margin: 0;
   line-height: inherit;
 }
+article.article .title {
+  text-indent: 0.7rem;
+  font-weight: 500;
+}
 article.article .article-meta,
 article.article .article-tags {
   color: #7a7a7a;
 }
 article.article .article-meta {
   overflow-x: auto;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1.4rem;
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  margin: 0.8rem;
+}
+article.article .content p {
+  line-height: 2rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
+  text-indent: 1rem;
 }
 article.article .content h2 {
   font-size: 1.5em;
