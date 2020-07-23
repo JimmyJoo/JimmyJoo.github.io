@@ -438,8 +438,8 @@ a:hover {
   color: #363636;
 }
 code {
-  padding: 0.25em 0.5em 0.25em;
-  color: #4d4d4d;
+  padding: 0.2em 0.4em 0.2em;
+  color: #363636;
   background: #eee;
   overflow-wrap: break-word;
   border-radius: 0.2em;
@@ -10895,8 +10895,8 @@ article.article .content pre {
   font-size: 0.85em;
 }
 article.article .content code {
-  padding: 0;
-  background: transparent;
+  /* padding: 0; */
+  /* background: transparent; */
   overflow-wrap: break-word;
 }
 article.article .content blockquote.pullquote {
