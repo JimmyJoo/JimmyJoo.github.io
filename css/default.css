@@ -438,11 +438,12 @@ a:hover {
   color: #363636;
 }
 code {
-  padding: 0.2em 0.4em 0.2em;
-  color: #363636;
-  background: #eee;
+  padding: 0.2em 0.5em 0.25em;
+  color: rgb(77, 77, 77);
+  background: rgb(238, 238, 238);
   overflow-wrap: break-word;
   border-radius: 0.2em;
+  font-size: 0.9em;
 }
 hr {
   background-color: #f5f5f5;
