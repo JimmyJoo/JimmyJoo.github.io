@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://jimmyjoo.github.io/tags/poiemaweb/</loc>
+        <lastmod>2020-09-23T01:23:14.561Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/control-flow/</loc>
+        <lastmod>2020-09-23T01:23:14.561Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/javascript/</loc>
+        <lastmod>2020-09-23T01:23:14.561Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/operator/</loc>
+        <lastmod>2020-09-23T01:17:36.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://jimmyjoo.github.io/tags/programmers/</loc>
         <lastmod>2020-09-23T00:46:42.098Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://jimmyjoo.github.io/tags/javascript/</loc>
-        <lastmod>2020-09-18T11:41:04.831Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jimmyjoo.github.io/tags/hash/</loc>
         <lastmod>2020-09-18T11:40:25.026Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -60,13 +81,6 @@
 
     <url>
         <loc>https://jimmyjoo.github.io/tags/function/</loc>
-        <lastmod>2020-09-16T07:54:58.603Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/poiemaweb/</loc>
         <lastmod>2020-09-16T07:54:58.603Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -124,20 +138,6 @@
     <url>
         <loc>https://jimmyjoo.github.io/tags/type-conversion/</loc>
         <lastmod>2020-09-16T07:52:24.971Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/control-flow/</loc>
-        <lastmod>2020-09-16T07:51:47.776Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/operator/</loc>
-        <lastmod>2020-09-16T07:50:58.193Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
