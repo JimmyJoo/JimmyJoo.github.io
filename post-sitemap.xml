@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://JimmyJoo.github.io/2020/09/17/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_2016/</loc>
-        <lastmod>2020-09-23T01:38:30.774Z</lastmod>
+        <lastmod>2020-09-23T02:03:31.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +17,7 @@
 
     <url>
         <loc>https://JimmyJoo.github.io/2020/09/18/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4/</loc>
-        <lastmod>2020-09-23T01:38:23.971Z</lastmod>
+        <lastmod>2020-09-23T02:03:25.073Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,7 +25,7 @@
 
     <url>
         <loc>https://JimmyJoo.github.io/2020/09/15/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0/</loc>
-        <lastmod>2020-09-23T01:38:16.340Z</lastmod>
+        <lastmod>2020-09-23T02:03:18.100Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,23 +33,7 @@
 
     <url>
         <loc>https://JimmyJoo.github.io/2020/09/19/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/</loc>
-        <lastmod>2020-09-23T01:38:07.631Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://JimmyJoo.github.io/2020/09/21/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/</loc>
-        <lastmod>2020-09-23T01:38:00.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://JimmyJoo.github.io/2020/09/14/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/</loc>
-        <lastmod>2020-09-23T01:37:52.038Z</lastmod>
+        <lastmod>2020-09-23T02:03:10.194Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -57,7 +41,23 @@
 
     <url>
         <loc>https://JimmyJoo.github.io/2020/09/16/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_K%EB%B2%88%EC%A7%B8%EC%88%98/</loc>
-        <lastmod>2020-09-23T01:37:37.578Z</lastmod>
+        <lastmod>2020-09-23T02:03:03.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://JimmyJoo.github.io/2020/09/21/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/</loc>
+        <lastmod>2020-09-23T02:02:54.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://JimmyJoo.github.io/2020/09/14/algorithms/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/</loc>
+        <lastmod>2020-09-23T02:02:28.488Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
