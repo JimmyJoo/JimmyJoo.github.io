@@ -3,36 +3,78 @@
 
 
     <url>
-        <loc>https://jimmyjoo.github.io/tags/programmers/</loc>
-        <lastmod>2020-09-23T02:05:55.151Z</lastmod>
+        <loc>https://jimmyjoo.github.io/tags/poiemaweb/</loc>
+        <lastmod>2020-10-06T08:58:54.228Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jimmyjoo.github.io/tags/algorithms/</loc>
-        <lastmod>2020-09-23T02:05:55.151Z</lastmod>
+        <loc>https://jimmyjoo.github.io/tags/ES6/</loc>
+        <lastmod>2020-10-06T08:58:54.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/method/</loc>
+        <lastmod>2020-10-06T08:58:54.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/property/</loc>
+        <lastmod>2020-10-06T08:58:54.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/object/</loc>
+        <lastmod>2020-10-06T08:58:54.228Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jimmyjoo.github.io/tags/javascript/</loc>
-        <lastmod>2020-09-23T02:05:55.151Z</lastmod>
+        <lastmod>2020-10-06T08:58:54.228Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jimmyjoo.github.io/tags/hash/</loc>
-        <lastmod>2020-09-23T02:02:28.488Z</lastmod>
+        <lastmod>2020-09-27T04:46:04.587Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://jimmyjoo.github.io/tags/poiemaweb/</loc>
-        <lastmod>2020-09-23T01:23:14.561Z</lastmod>
+        <loc>https://jimmyjoo.github.io/tags/programmers/</loc>
+        <lastmod>2020-09-27T04:46:04.587Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/algorithms/</loc>
+        <lastmod>2020-09-27T04:46:04.587Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/statement/</loc>
+        <lastmod>2020-09-26T15:29:48.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jimmyjoo.github.io/tags/expression/</loc>
+        <lastmod>2020-09-26T15:29:48.909Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -108,50 +150,8 @@
     </url>
 
     <url>
-        <loc>https://jimmyjoo.github.io/tags/ES6/</loc>
-        <lastmod>2020-09-16T07:52:47.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/method/</loc>
-        <lastmod>2020-09-16T07:52:47.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/property/</loc>
-        <lastmod>2020-09-16T07:52:47.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/object/</loc>
-        <lastmod>2020-09-16T07:52:47.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jimmyjoo.github.io/tags/type-conversion/</loc>
         <lastmod>2020-09-16T07:52:24.971Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/statement/</loc>
-        <lastmod>2020-09-16T07:49:27.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://jimmyjoo.github.io/tags/expression/</loc>
-        <lastmod>2020-09-16T07:49:27.214Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
